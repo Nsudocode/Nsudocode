@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nsudocode
-- 👀 I’m interested in Blockchain, DevOps and Automation.
-- 🌱 I’m currently learning Cloud Computing and Data Engineering 
+- 👀 I’m interested in Blockchain, DevOps and Cybersecurity.
+- 🌱 I’m currently learning Cloud Computing and Penetration Testing 
 - 📫 How to reach me: nsudohdavidejr@gmail.com
 
 <!---
